@@ -16,4 +16,6 @@ body{
 	position: sticky;
 	top: 0;
 }
-
+#first_class{
+	border-right: double black;
+}
